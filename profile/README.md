@@ -14,7 +14,7 @@ dare agli agenti un accesso pulito e context-efficient a quelle API.
 | CLI | Cosa fa |
 |---|---|
 | [`fatture-cli`](https://github.com/mayai-it/fatture-cli) | Wrapper dell'API di Fatture in Cloud |
-| `pec-cli` *(in arrivo)* | IMAP/SMTP per caselle PEC |
+| [`pec-cli`](https://github.com/mayai-it/pec-cli) | IMAP/SMTP per caselle PEC |
 | `linkedin-cli` *(in arrivo)* | API interne LinkedIn |
 
 🌐 [**mayai.it**](https://mayai.it)
@@ -37,7 +37,7 @@ agents clean, context-efficient access to those APIs.
 | CLI | Purpose |
 |---|---|
 | [`fatture-cli`](https://github.com/mayai-it/fatture-cli) | Fatture in Cloud API wrapper |
-| `pec-cli` *(coming soon)* | IMAP/SMTP for Italian certified mail (PEC) |
+| [`pec-cli`](https://github.com/mayai-it/pec-cli) | IMAP/SMTP for Italian certified mail (PEC) |
 | `linkedin-cli` *(coming soon)* | LinkedIn internal API |
 
 🌐 [**mayai.it**](https://mayai.it)
