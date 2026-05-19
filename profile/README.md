@@ -1,6 +1,6 @@
 # MayAI
 
-**Costruiamo agenti AI per aziende italiane.**
+**Costruiamo soluzioni intelligenti per chi fa impresa in italia.**
 
 Aiutiamo le aziende ad automatizzare i loro flussi di lavoro con agenti AI
 custom, integrandoli con i sistemi che usano ogni giorno 
@@ -22,7 +22,7 @@ dare agli agenti un accesso pulito e context-efficient a quelle API.
 
 # MayAI
 
-**We build AI agents for Italian businesses.**
+**We build AI that works the way Italian businesses do.**
 
 We help companies automate their workflows with custom AI agents, integrated
 with the systems they use every day 
