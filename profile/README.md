@@ -16,6 +16,8 @@ dare agli agenti un accesso pulito e context-efficient a quelle API.
 | [`pec-cli`](https://github.com/mayai-it/pec-cli) | IMAP/SMTP per caselle PEC |
 | [`linkedin-cli`](https://github.com/mayai-it/linkedin-cli) | API interne LinkedIn |
 
+Tutti i nostri CLI includono un **MCP server** nativo — utilizzabili direttamente in Claude Desktop, Cursor e altri AI agent senza subprocess o parsing JSON.
+
 🌐 [**mayai.it**](https://mayai.it)
 
 ---
@@ -37,5 +39,7 @@ agents clean, context-efficient access to those APIs.
 | [`fatture-cli`](https://github.com/mayai-it/fatture-cli) | Fatture in Cloud API wrapper |
 | [`pec-cli`](https://github.com/mayai-it/pec-cli) | IMAP/SMTP for Italian certified mail (PEC) |
 | [`linkedin-cli`](https://github.com/mayai-it/linkedin-cli) | LinkedIn internal API |
+
+All our CLIs ship with a native **MCP server** — use them directly in Claude Desktop, Cursor, and other AI agents without subprocess calls or JSON parsing.
 
 🌐 [**mayai.it**](https://mayai.it)
