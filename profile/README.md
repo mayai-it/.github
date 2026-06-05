@@ -4,7 +4,7 @@
 
 Aiutiamo aziende e professionisti ad automatizzare i loro processi con agenti AI su misura, integrati nei sistemi che usano ogni giorno. Su questo profilo pubblichiamo gli strumenti open-source che costruiamo e usiamo internamente.
 
-## ⭐ In evidenza — BandiRadar
+## ⭐ In evidenza - - BandiRadar
 
 **[`bandiradar`](https://github.com/mayai-it/bandiradar)** · motore open-source che monitora le opportunità di finanziamento pubblico italiane (gare, bandi, incentivi), le normalizza in un unico modello e le classifica rispetto al profilo di un'azienda.
 
@@ -33,7 +33,7 @@ Le linee di comando che usiamo internamente per dare agli agenti AI un accesso p
 
 We help companies and professionals automate their processes with custom AI agents, integrated with the systems they use every day. This profile hosts the open-source tools we build and use internally.
 
-## ⭐ Featured — BandiRadar
+## ⭐ Featured - - BandiRadar
 
 **[`bandiradar`](https://github.com/mayai-it/bandiradar)** · an open-source engine that monitors Italian public funding opportunities (tenders, grants, incentives), normalizes them into one canonical model, and ranks them against a company profile.
 
